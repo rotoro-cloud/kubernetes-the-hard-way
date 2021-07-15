@@ -1,6 +1,6 @@
 
 
-# 1. Скачай утилиту etcdctl, если у тебя ее еще нет.
+# 1. Скачай утилиту etcdctl, если у тебя ее еще нет
 
 Reference: https://github.com/etcd-io/etcd/releases
 
